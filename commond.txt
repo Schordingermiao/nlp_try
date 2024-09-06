@@ -1,0 +1,2 @@
+curl -X POST -H "Content-Type: application/json"  -d  '{"commond":"吃饭"}'  http://127.0.0.1:5000
+curl -X POST -H "Content-Type: application/json"  -d  '{"commond":"饭不好吃，非常难吃"}'  http://127.0.0.1:5000
